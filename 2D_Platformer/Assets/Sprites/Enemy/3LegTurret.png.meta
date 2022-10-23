@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 5f36d04f70abbfa49896ac964d9cc539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5142406437079969694
+    second: 3LegTurret_0
+  - first:
+      213: -4065707520611446687
+    second: 3LegTurret_1
+  - first:
+      213: -7857229401333844006
+    second: 3LegTurret_2
+  - first:
+      213: 8368702952332045098
+    second: 3LegTurret_3
+  - first:
+      213: -5385906317965991112
+    second: 3LegTurret_4
+  - first:
+      213: -9202651191535414163
+    second: 3LegTurret_5
+  - first:
+      213: 6765302978754117975
+    second: 3LegTurret_6
+  - first:
+      213: -1334846536543525432
+    second: 3LegTurret_7
+  - first:
+      213: -6024440133914437959
+    second: 3LegTurret_8
+  - first:
+      213: 6372773407266694377
+    second: 3LegTurret_9
+  - first:
+      213: 949570167308100072
+    second: 3LegTurret_10
+  - first:
+      213: 5299346808549773639
+    second: 3LegTurret_11
+  - first:
+      213: -6125826255930134016
+    second: 3LegTurret_12
+  - first:
+      213: 4632030375774469522
+    second: 3LegTurret_13
+  - first:
+      213: -1735754080235518144
+    second: 3LegTurret_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3LegTurret_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9.5, y: 7.5}
+        - {x: 4.5, y: 14.5}
+        - {x: 1.5, y: 11.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -9.5, y: 6.5}
+        - {x: -9.5, y: 0.5}
+        - {x: -7.5, y: -3.5}
+        - {x: -14.5, y: -7.5}
+        - {x: -14.5, y: -14.5}
+        - {x: -11.5, y: -20.5}
+        - {x: 10.5, y: -20.5}
+        - {x: 14.5, y: -13.5}
+        - {x: 14.5, y: -7.5}
+        - {x: 7.5, y: -3.5}
+        - {x: 9.5, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609a23579082a8b0800000000000000
+      internalID: -5142406437079969694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 123
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4.5, y: 14.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -18.5, y: -13.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 12.5, y: -20.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 14.5, y: -9.5}
+        - {x: 12.5, y: -5.5}
+        - {x: 9.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16012511d84b397c0800000000000000
+      internalID: -4065707520611446687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bdb62d7385f290800000000000000
+      internalID: -7857229401333844006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba380fefa932470800000000000000
+      internalID: 8368702952332045098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ea145dba6145b0800000000000000
+      internalID: -5385906317965991112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64d4b0cf7d994080800000000000000
+      internalID: -9202651191535414163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751088e073f23ed50800000000000000
+      internalID: 6765302978754117975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 82
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a9a7b52ca97de0800000000000000
+      internalID: -1334846536543525432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b65c67fd93e46ca0800000000000000
+      internalID: -6024440133914437959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ef2646a3a07850800000000000000
+      internalID: 6372773407266694377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e125bf390d8d2d00800000000000000
+      internalID: 949570167308100072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741953168df0b8940800000000000000
+      internalID: 5299346808549773639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f58be971bcfaa0800000000000000
+      internalID: -6125826255930134016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3LegTurret_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3bd0d517484040800000000000000
+      internalID: 4632030375774469522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

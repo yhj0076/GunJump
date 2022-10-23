@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: bd8ba204e529fec4e9fb447753dd3124
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4535640562241726636
+    second: Lab Tile_0
+  - first:
+      213: -7049165364657055784
+    second: Lab Tile_1
+  - first:
+      213: 1055424526818016012
+    second: Lab Tile_2
+  - first:
+      213: 1576221286524804489
+    second: Lab Tile_3
+  - first:
+      213: -7541230267749002451
+    second: Lab Tile_4
+  - first:
+      213: -5237385047574870187
+    second: Lab Tile_5
+  - first:
+      213: -2049419806369262655
+    second: Lab Tile_6
+  - first:
+      213: 7270515894383211339
+    second: Lab Tile_7
+  - first:
+      213: 8202579383445824482
+    second: Lab Tile_8
+  - first:
+      213: 6633925977000218290
+    second: Lab Tile_9
+  - first:
+      213: 5528095540981452903
+    second: Lab Tile_10
+  - first:
+      213: 4455064136841488693
+    second: Lab Tile_11
+  - first:
+      213: -177809146652503710
+    second: Lab Tile_12
+  - first:
+      213: 464418484776412469
+    second: Lab Tile_13
+  - first:
+      213: 2219697068971619140
+    second: Lab Tile_14
+  - first:
+      213: 1674744589108305110
+    second: Lab Tile_15
+  - first:
+      213: 3699035826737994635
+    second: Lab Tile_16
+  - first:
+      213: 4285612015132786141
+    second: Lab Tile_17
+  - first:
+      213: 2665728033312443553
+    second: Lab Tile_18
+  - first:
+      213: 5847913765816916198
+    second: Lab Tile_19
+  - first:
+      213: 4612691320788507529
+    second: Lab Tile_20
+  - first:
+      213: 2088501997060053879
+    second: Lab Tile_21
+  - first:
+      213: 4033516669619576743
+    second: Lab Tile_22
+  - first:
+      213: 5661749083744072928
+    second: Lab Tile_23
+  - first:
+      213: 3288561429855893486
+    second: Lab Tile_24
+  - first:
+      213: -3217415143926070369
+    second: Lab Tile_25
+  - first:
+      213: -777588797840431498
+    second: Lab Tile_26
+  - first:
+      213: -3751403547102613303
+    second: Lab Tile_27
+  - first:
+      213: -8387275975339989313
+    second: Lab Tile_28
+  - first:
+      213: 3262036423556925382
+    second: Lab Tile_29
+  - first:
+      213: -4095594535292903716
+    second: Lab Tile_30
+  - first:
+      213: -938458545858599787
+    second: Lab Tile_31
+  - first:
+      213: -5476482898153808051
+    second: Lab Tile_32
+  - first:
+      213: 5478449686025076914
+    second: Lab Tile_33
+  - first:
+      213: 9167087938525049487
+    second: Lab Tile_34
+  - first:
+      213: 124693738891129581
+    second: Lab Tile_35
+  - first:
+      213: -3599556156223068415
+    second: Lab Tile_36
+  - first:
+      213: -7296207947860303302
+    second: Lab Tile_37
+  - first:
+      213: -4682304341592789479
+    second: Lab Tile_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lab Tile_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579ab280fa2e01c0800000000000000
+      internalID: -4535640562241726636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d711ace2755c2e90800000000000000
+      internalID: -7049165364657055784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf838e30f95ae00800000000000000
+      internalID: 1055424526818016012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 148
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: -11.5}
+        - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 6.5}
+        - {x: -3.5, y: 10.5}
+        - {x: 4.5, y: 10.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 8.5, y: -7.5}
+        - {x: 4.5, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d58bea8ecdfd510800000000000000
+      internalID: 1576221286524804489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239561d60b285790800000000000000
+      internalID: -7541230267749002451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5578b5f4c021157b0800000000000000
+      internalID: -5237385047574870187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d5bd5b8ffe83e0800000000000000
+      internalID: -2049419806369262655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43fa826faf06e460800000000000000
+      internalID: 7270515894383211339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32b387d7a65d170800000000000000
+      internalID: 8202579383445824482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be855d2780701c50800000000000000
+      internalID: 6633925977000218290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760de9cfa9db7bc40800000000000000
+      internalID: 5528095540981452903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539e4008a3193dd30800000000000000
+      internalID: 4455064136841488693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26156ffe58b488df0800000000000000
+      internalID: -177809146652503710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535293cb622f17600800000000000000
+      internalID: 464418484776412469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443770949b2fdce10800000000000000
+      internalID: 2219697068971619140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcde43a453ed3710800000000000000
+      internalID: 1674744589108305110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 32
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12598425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b59207c7d955330800000000000000
+      internalID: 3699035826737994635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 32
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12598425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb22feb6d897b30800000000000000
+      internalID: 4285612015132786141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 32
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12598425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac836dc5819ef420800000000000000
+      internalID: 2665728033312443553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 32
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12598425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e852a02696f72150800000000000000
+      internalID: 5847913765816916198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 15
+        width: 32
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12598425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b50223152930040800000000000000
+      internalID: 4612691320788507529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 15
+        width: 32
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12598425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b557f3089dbfc10800000000000000
+      internalID: 2088501997060053879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af9a406a0ee9f730800000000000000
+      internalID: 4033516669619576743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e475ff5bc2929e40800000000000000
+      internalID: 5661749083744072928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77c98623153ad20800000000000000
+      internalID: 3288561429855893486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93035329f17953d0800000000000000
+      internalID: -3217415143926070369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e563bb137535f0800000000000000
+      internalID: -777588797840431498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fec5895650fbc0800000000000000
+      internalID: -3751403547102613303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb621b820f86a9b80800000000000000
+      internalID: -8387275975339989313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70f7e18d4154d20800000000000000
+      internalID: 3262036423556925382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded5d338768927c0800000000000000
+      internalID: -4095594535292903716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942ba9bcece9f2f0800000000000000
+      internalID: -938458545858599787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5a0dd1df9ff3b0800000000000000
+      internalID: -5476482898153808051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0006f96fc570c40800000000000000
+      internalID: 5478449686025076914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82bd8829e9083f70800000000000000
+      internalID: 9167087938525049487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2325c7b400bb100800000000000000
+      internalID: 124693738891129581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e0474fbecb0ec0800000000000000
+      internalID: -3599556156223068415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a7644789aeba90800000000000000
+      internalID: -7296207947860303302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab Tile_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ea71d520d150fb0800000000000000
+      internalID: -4682304341592789479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

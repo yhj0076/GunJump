@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 91add434e5eec3341b659fa550147086
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5715815298585771863
+    second: Breakable and Spike_0
+  - first:
+      213: -3947986742939369940
+    second: Breakable and Spike_1
+  - first:
+      213: 2880137012272824256
+    second: Breakable and Spike_2
+  - first:
+      213: 7381361629166472061
+    second: Breakable and Spike_3
+  - first:
+      213: 5940616748201950564
+    second: Breakable and Spike_4
+  - first:
+      213: 1321121230477979219
+    second: Breakable and Spike_5
+  - first:
+      213: -3279075386924050169
+    second: Breakable and Spike_6
+  - first:
+      213: 8584866324720229016
+    second: Breakable and Spike_7
+  - first:
+      213: 4227370500799692803
+    second: Breakable and Spike_8
+  - first:
+      213: 4758689499659976167
+    second: Breakable and Spike_9
+  - first:
+      213: 6517522704400552017
+    second: Breakable and Spike_10
+  - first:
+      213: 2506240808153517346
+    second: Breakable and Spike_11
+  - first:
+      213: -3864701227317262064
+    second: Breakable and Spike_12
+  - first:
+      213: -9160216454338133634
+    second: Breakable and Spike_13
+  - first:
+      213: 167223041295691844
+    second: Breakable and Spike_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Breakable and Spike_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 74
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0.25, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 64}
+        - {x: -32, y: -64}
+        - {x: 32, y: 0}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a04d0605485da0b0800000000000000
+      internalID: -5715815298585771863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0.25, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 64}
+        - {x: -32, y: 0}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb52189fee539c0800000000000000
+      internalID: -3947986742939369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 64
+        height: 112
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 64}
+        - {x: -32, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff9f06a5d48f720800000000000000
+      internalID: 2880137012272824256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 90
+        width: 64
+        height: 112
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 0}
+        - {x: -32, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8a292b4ddf6660800000000000000
+      internalID: 7381361629166472061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 38
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7619048, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10.5, y: -8.5}
+        - {x: 10.5, y: 8.5}
+        - {x: -10.5, y: 8.5}
+        - {x: -10.5, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d305f257f417250800000000000000
+      internalID: 5940616748201950564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 41
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.15789473, y: -0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: 7}
+        - {x: -9.5, y: -7}
+        - {x: 9.5, y: -7}
+        - {x: 9.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eeddf62c0955210800000000000000
+      internalID: 1321121230477979219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -4, y: -12}
+        - {x: -4, y: -11}
+        - {x: -15, y: -8}
+        - {x: -15, y: -7}
+        - {x: -4, y: -4}
+        - {x: -4, y: -3}
+        - {x: -15, y: 0}
+        - {x: -15, y: 1}
+        - {x: -4, y: 4}
+        - {x: -4, y: 5}
+        - {x: -15, y: 8}
+        - {x: -15, y: 9}
+        - {x: -4, y: 12}
+        - {x: -4, y: 13}
+        - {x: -12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095aa21f426e72d0800000000000000
+      internalID: -3279075386924050169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -4, y: -12}
+        - {x: -4, y: -11}
+        - {x: -15, y: -8}
+        - {x: -15, y: -7}
+        - {x: -4, y: -4}
+        - {x: -4, y: -3}
+        - {x: -15, y: 0}
+        - {x: -15, y: 1}
+        - {x: -4, y: 4}
+        - {x: -4, y: 5}
+        - {x: -15, y: 8}
+        - {x: -15, y: 9}
+        - {x: -4, y: 12}
+        - {x: -4, y: 13}
+        - {x: -14, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a99211072932770800000000000000
+      internalID: 8584866324720229016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 16}
+        - {x: 4, y: 13}
+        - {x: 4, y: 12}
+        - {x: 15, y: 9}
+        - {x: 15, y: 8}
+        - {x: 4, y: 5}
+        - {x: 4, y: 4}
+        - {x: 15, y: 1}
+        - {x: 15, y: 0}
+        - {x: 4, y: -3}
+        - {x: 4, y: -4}
+        - {x: 15, y: -7}
+        - {x: 15, y: -8}
+        - {x: 4, y: -11}
+        - {x: 4, y: -12}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300812aa213aaaa30800000000000000
+      internalID: 4227370500799692803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 16}
+        - {x: 4, y: 13}
+        - {x: 4, y: 12}
+        - {x: 15, y: 9}
+        - {x: 15, y: 8}
+        - {x: 4, y: 5}
+        - {x: 4, y: 4}
+        - {x: 15, y: 1}
+        - {x: 15, y: 0}
+        - {x: 4, y: -3}
+        - {x: 4, y: -4}
+        - {x: 15, y: -7}
+        - {x: 15, y: -8}
+        - {x: 4, y: -11}
+        - {x: 4, y: -12}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed3d9723e24a0240800000000000000
+      internalID: 4758689499659976167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150965b4e54e27a50800000000000000
+      internalID: 6517522704400552017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 27
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 4}
+        - {x: -5.5, y: -4}
+        - {x: 5.5, y: -4}
+        - {x: 5.5, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d04938cb4f7c220800000000000000
+      internalID: 2506240808153517346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 23
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: -0.14285715, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 6.5}
+        - {x: -7, y: -6.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190db6b5b2dd5ac0800000000000000
+      internalID: -3864701227317262064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 1, y: 0.84210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 9.5}
+        - {x: -8, y: -9.5}
+        - {x: 8, y: -9.5}
+        - {x: 8, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71cc7deaaf50e080800000000000000
+      internalID: -9160216454338133634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable and Spike_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 18
+        height: 14
+      alignment: 9
+      pivot: {x: 0.11111111, y: 1.1428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -9, y: -7}
+        - {x: 9, y: -7}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b0b65878125200800000000000000
+      internalID: 167223041295691844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

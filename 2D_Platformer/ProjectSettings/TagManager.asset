@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Guns
+  - Platform
+  - Trap
+  - NPC
+  - Breakable Walls
+  - BoomEffect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Camera
+  - Gun
+  - Enemy
+  - Player
+  - NPC
+  - BackGround
+  - Boundary
+  - Obstacles In Boss
+  - ThreeLeg
+  - SuperBackUI
+  - UselessObstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackBackGround
+    uniqueID: 3817327047
+    locked: 0
+  - name: BackGround
+    uniqueID: 862631865
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 2499004289
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4184176745
+    locked: 0
